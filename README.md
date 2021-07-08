@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KrishankuBose
-- 👀 I’m interested in ... DevOps and Ansible, Puppet, Jenkins
-- 🌱 I’m currently learning ... Puppet
-- 💞️ I’m looking to collaborate on ... DevOps codes
+- 👀 I’m interested in ... DevOps, DevSecOps and Ansible, Puppet, Jenkins, Chef
+- 🌱 I’m currently learning ... Ruby
+- 💞️ I’m looking to collaborate on ... DevOps and DevSecOps automation
 - 📫 How to reach me ... krishanku@gmail.com
 
 <!---
